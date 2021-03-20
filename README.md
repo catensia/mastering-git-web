@@ -1,5 +1,7 @@
-# mastering-git-web
+# Capstone Design I
 
-This repository houses a proposed website for the Mastering Git book.
+## AI를 활용한 PC 견적 자동 추천 서비스 
 
-Contact: mwkoo@sogang.ac.kr
+
+
+## 이미지 분석 기술을 통한 컴퓨터 부품 
